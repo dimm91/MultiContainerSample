@@ -1,0 +1,19 @@
+version: '3.9'
+
+services:
+  conejito: # Container Name
+    image: rabbitmq:3-management
+    hostname: my-rabbit
+    ports:
+      - "1234:15672" # Port of RabbitMq Management (Dashboard)
+      - "4321:5672" # Port of connections to RabbitMq Client
+
+  console_receiver:
+    build: ./Test.MultiContainer.RabbitConsumer/Test.MultiContainer.RabbitConsumer/
+    depends_on:
+      - conejito
+      
+  console_sender:
+    build: ./Test.MultiContainer.RabbitSender/Test.MultiContainer.RabbitSender/
+    depends_on:
+      - conejito

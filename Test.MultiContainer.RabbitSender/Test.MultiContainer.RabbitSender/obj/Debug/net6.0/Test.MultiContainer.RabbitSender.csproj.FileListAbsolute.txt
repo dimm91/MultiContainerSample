@@ -1,0 +1,17 @@
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitSender\Test.MultiContainer.RabbitSender\bin\Debug\net6.0\Test.MultiContainer.RabbitSender.exe
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitSender\Test.MultiContainer.RabbitSender\bin\Debug\net6.0\Test.MultiContainer.RabbitSender.deps.json
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitSender\Test.MultiContainer.RabbitSender\bin\Debug\net6.0\Test.MultiContainer.RabbitSender.runtimeconfig.json
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitSender\Test.MultiContainer.RabbitSender\bin\Debug\net6.0\Test.MultiContainer.RabbitSender.dll
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitSender\Test.MultiContainer.RabbitSender\bin\Debug\net6.0\ref\Test.MultiContainer.RabbitSender.dll
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitSender\Test.MultiContainer.RabbitSender\bin\Debug\net6.0\Test.MultiContainer.RabbitSender.pdb
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitSender\Test.MultiContainer.RabbitSender\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitSender\Test.MultiContainer.RabbitSender\obj\Debug\net6.0\Test.MultiContainer.RabbitSender.csproj.AssemblyReference.cache
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitSender\Test.MultiContainer.RabbitSender\obj\Debug\net6.0\Test.MultiContainer.RabbitSender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitSender\Test.MultiContainer.RabbitSender\obj\Debug\net6.0\Test.MultiContainer.RabbitSender.AssemblyInfoInputs.cache
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitSender\Test.MultiContainer.RabbitSender\obj\Debug\net6.0\Test.MultiContainer.RabbitSender.AssemblyInfo.cs
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitSender\Test.MultiContainer.RabbitSender\obj\Debug\net6.0\Test.MultiContainer.RabbitSender.csproj.CoreCompileInputs.cache
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitSender\Test.MultiContainer.RabbitSender\obj\Debug\net6.0\Test.MultiContainer.RabbitSender.csproj.CopyComplete
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitSender\Test.MultiContainer.RabbitSender\obj\Debug\net6.0\Test.MultiContainer.RabbitSender.dll
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitSender\Test.MultiContainer.RabbitSender\obj\Debug\net6.0\ref\Test.MultiContainer.RabbitSender.dll
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitSender\Test.MultiContainer.RabbitSender\obj\Debug\net6.0\Test.MultiContainer.RabbitSender.pdb
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitSender\Test.MultiContainer.RabbitSender\obj\Debug\net6.0\Test.MultiContainer.RabbitSender.genruntimeconfig.cache

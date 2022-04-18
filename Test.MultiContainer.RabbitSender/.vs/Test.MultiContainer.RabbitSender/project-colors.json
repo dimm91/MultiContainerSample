@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4613619f-202d-420b-873a-90e68885912e": {
+      "ProjectGuid": "4613619f-202d-420b-873a-90e68885912e",
+      "DisplayName": "Test.MultiContainer.RabbitSender",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

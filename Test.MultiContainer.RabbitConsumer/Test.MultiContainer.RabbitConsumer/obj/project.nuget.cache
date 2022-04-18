@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xrA4QdGqfKFdK1VTeam4oYIQ5vPXRt7lc/lIMAmZNtiAChJXdxkJxflWv1rHxrMPWrYHrt50DWsMLxkQZC50hg==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Samples\\MultiContainers\\Test.MultiContainer.RabbitConsumer\\Test.MultiContainer.RabbitConsumer\\Test.MultiContainer.RabbitConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daniel.moreano\\.nuget\\packages\\rabbitmq.client\\6.2.4\\rabbitmq.client.6.2.4.nupkg.sha512",
+    "C:\\Users\\daniel.moreano\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\daniel.moreano\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

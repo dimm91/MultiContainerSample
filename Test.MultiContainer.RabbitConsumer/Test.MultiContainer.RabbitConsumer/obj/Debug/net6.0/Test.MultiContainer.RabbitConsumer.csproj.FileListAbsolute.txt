@@ -1,0 +1,17 @@
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitConsumer\Test.MultiContainer.RabbitConsumer\bin\Debug\net6.0\Test.MultiContainer.RabbitConsumer.exe
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitConsumer\Test.MultiContainer.RabbitConsumer\bin\Debug\net6.0\Test.MultiContainer.RabbitConsumer.deps.json
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitConsumer\Test.MultiContainer.RabbitConsumer\bin\Debug\net6.0\Test.MultiContainer.RabbitConsumer.runtimeconfig.json
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitConsumer\Test.MultiContainer.RabbitConsumer\bin\Debug\net6.0\Test.MultiContainer.RabbitConsumer.dll
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitConsumer\Test.MultiContainer.RabbitConsumer\bin\Debug\net6.0\ref\Test.MultiContainer.RabbitConsumer.dll
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitConsumer\Test.MultiContainer.RabbitConsumer\bin\Debug\net6.0\Test.MultiContainer.RabbitConsumer.pdb
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitConsumer\Test.MultiContainer.RabbitConsumer\obj\Debug\net6.0\Test.MultiContainer.RabbitConsumer.csproj.AssemblyReference.cache
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitConsumer\Test.MultiContainer.RabbitConsumer\obj\Debug\net6.0\Test.MultiContainer.RabbitConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitConsumer\Test.MultiContainer.RabbitConsumer\obj\Debug\net6.0\Test.MultiContainer.RabbitConsumer.AssemblyInfoInputs.cache
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitConsumer\Test.MultiContainer.RabbitConsumer\obj\Debug\net6.0\Test.MultiContainer.RabbitConsumer.AssemblyInfo.cs
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitConsumer\Test.MultiContainer.RabbitConsumer\obj\Debug\net6.0\Test.MultiContainer.RabbitConsumer.csproj.CoreCompileInputs.cache
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitConsumer\Test.MultiContainer.RabbitConsumer\obj\Debug\net6.0\Test.MultiContainer.RabbitConsumer.dll
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitConsumer\Test.MultiContainer.RabbitConsumer\obj\Debug\net6.0\ref\Test.MultiContainer.RabbitConsumer.dll
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitConsumer\Test.MultiContainer.RabbitConsumer\obj\Debug\net6.0\Test.MultiContainer.RabbitConsumer.pdb
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitConsumer\Test.MultiContainer.RabbitConsumer\obj\Debug\net6.0\Test.MultiContainer.RabbitConsumer.genruntimeconfig.cache
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitConsumer\Test.MultiContainer.RabbitConsumer\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Projects\Samples\MultiContainers\Test.MultiContainer.RabbitConsumer\Test.MultiContainer.RabbitConsumer\obj\Debug\net6.0\Test.MultiContainer.RabbitConsumer.csproj.CopyComplete
